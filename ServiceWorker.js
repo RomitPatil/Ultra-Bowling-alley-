@@ -1,9 +1,9 @@
 const cacheName = "Tech-Ultra Bowling Alley-0.1";
 const contentToCache = [
-    "Build/15Feb2025BowlingGame.loader.js",
-    "Build/15Feb2025BowlingGame.framework.js",
-    "Build/15Feb2025BowlingGame.data",
-    "Build/15Feb2025BowlingGame.wasm",
+    "Build/16_2_25BowlingWebglUnity.loader.js",
+    "Build/16_2_25BowlingWebglUnity.framework.js",
+    "Build/16_2_25BowlingWebglUnity.data",
+    "Build/16_2_25BowlingWebglUnity.wasm",
     "TemplateData/style.css"
 
 ];
